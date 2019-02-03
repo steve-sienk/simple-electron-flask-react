@@ -10,9 +10,9 @@ Quickstart:
 * npm install && npm start
 
 Read these resources for more information:
-https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c
-https://www.techiediaries.com/python-electron-tutorial)
-https://github.com/csepulv/electron-with-create-react-app
+* https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c
+* https://www.techiediaries.com/python-electron-tutorial)
+* https://github.com/csepulv/electron-with-create-react-app
 
 
  
