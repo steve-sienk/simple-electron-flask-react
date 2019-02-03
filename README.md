@@ -1,11 +1,18 @@
-## Electron with Python
+## Simple Electron Flask React
 
-Very Simple Python App with Electron GUI which demonstrates Python/Node.js-Electron Communication.
+A Simple Flask with Electron GUI. (No React yet)
 
-You can read this [Electron/Python tutorial](https://www.techiediaries.com/python-electron-tutorial) for more information
+* Note: I hit a roadblock with running python-shell from a React app. It's an issue with webpack and the child_process module.
+* For now, this is just a clone of the python-electron tutorial listed below.
 
-![Electron Python](https://i.imgur.com/bM6cJR3.png)
+Quickstart:
+* pipenv shell
+* npm install && npm start
 
-![Electron Python](https://i.imgur.com/ytib7jt.png)
+Read these resources for more information:
+https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c
+https://www.techiediaries.com/python-electron-tutorial)
+https://github.com/csepulv/electron-with-create-react-app
+
 
  
