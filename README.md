@@ -1,8 +1,8 @@
 ## Simple Electron Flask React
 
-A Simple Flask with Electron GUI. (No React yet)
-
-* Note: I hit a roadblock with running python-shell from a React app. It's an issue with webpack and the child_process module.
+This repo was started with the intention of React-ifying the flask-electron tutorial.
+Unfortunetly, Webpack isn't designed to do that.
+* Webpack isn't designed to use child_process, https://stackoverflow.com/questions/43741708/how-to-use-child-process-in-webpack
 * For now, this is just a clone of the python-electron tutorial listed below.
 
 Quickstart:
